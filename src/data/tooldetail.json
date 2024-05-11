@@ -1,0 +1,64 @@
+[
+  {
+    "toolImg": "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_idea.png",
+    "title": "아이디어 불패의 법칙",
+    "subTitle": "처음부터 '될 만한 놈'을 찾아야 시장을 이긴다.",
+    "createdBy": "알베르토 사보이아",
+    "description": "지난 10년간 실리콘밸리, 스탠퍼드대학교의 예비 창업가들이 교과서처럼 공유한 압도적 '불패 바이블'",
+    "companyImg": [
+      "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_idea_amazon.png",
+      "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_idea_dell.png",
+      "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_idea_newbalance.png"
+    ],
+    "keyword": "구글 혁신 전문가, 가설검증, 될 놈, 아이디어 검증, 프리토타이핑",
+    "content": "아이디어 불패의 법칙 검증 툴 개요입니다.",
+    "verificationMethod": [
+      {
+        "name": "방식 제목1",
+        "description": "검증방식1"
+      },
+      {
+        "name": "방식 제목2",
+        "description": "검증방식2"
+      },
+      {
+        "name": "방식 제목3",
+        "description": "검증방식3"
+      }
+    ],
+    "exampleContent": ["아마존 사례", "델 사례", "뉴발란스 사례"]
+  },
+  {
+    "toolImg": "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_lean.png",
+    "title": "린 스타트업",
+    "subTitle": "만들고 - 측정하고 - 배우고",
+    "createdBy": "에릭 리스",
+    "description": "성공적인 비즈니스를 만들기 위해서 바로 시작하지 않고 가설과 검증을 통해 반복적으로 실험합니다.",
+    "companyImg": [
+      "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_lean_starbucks.png",
+      "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_lean_meta.png",
+      "https://stlab-storage-main.s3.ap-northeast-2.amazonaws.com/%ED%94%84%EB%A6%AC%EB%AC%B4%EC%8A%A4/toolimg_lean_airbnb.png"
+    ],
+    "keyword": "지속적 혁신, 신속한 과학적 실험, 자본이 제한된 기업",
+    "content": "린스타트업은 스타트업이 제품이나 서비스를 린(Lean)하게 개발하고 운영하는 방식을 가리킵니다. 이 개념은 에릭 리스의 책 \"린 스타트업\"에서 유래되었습니다.",
+    "verificationMethod": [
+      {
+        "name": "MVP 테스트(Minimum Viable Product)",
+        "description": "최소 기능 제품을 만들어 고객들에게 출시하고 실제 사용자 경험을 통해 아이디어나 제품의 가치를 확인합니다."
+      },
+      {
+        "name": "A/B 테스트",
+        "description": "두 가지 이상의 버전을 만들어서 사용자들에게 무작위로 제시하고, 어떤 버전이 더 성과가 좋은지 비교하여 최적의 결정을 내립니다."
+      },
+      {
+        "name": "컨커런트 엔지니어링(Concurrent Engineering)",
+        "description": "두 가지 이상의 버전을 만들어서 사용자들에게 선택하여 검증할 수 있도록 합니다."
+      }
+    ],
+    "exampleContent": [
+      "쿠팡은 린스타트업은 스타트업이 제품이나 서비스를 린(Lean)하게 개발하고 운영.",
+      "쿠팡은 린스타트업은 스타트업이 제품이나 서비스를 린(Lean)하게 개발하고 운영.",
+      "쿠팡은 린스타트업은 스타트업이 제품이나 서비스를 린(Lean)하게 개발하고 운영."
+    ]
+  }
+]
